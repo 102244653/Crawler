@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2392bf0-6715-4430-a72f-787f32e8139f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DownloadPic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Util/DownloadPic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostArticle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/PostArticle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="110" column="88" lean-forward="true" selection-start-line="110" selection-start-column="88" selection-end-line="110" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commentdata.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PriseAndLikeZone/commentdata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchTouzhongwang.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTouzhongwang.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchToutiao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchToutiao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="52" column="88" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="88" />
+              <folding>
+                <element signature="method#unicodetoString#0;class#SearchToutiao#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchQiushibaike.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchQiushibaike.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.android.maiguo.activity:id/small_play_adapter_preview_like</find>
+      <find>filterType</find>
+      <find>apiname</find>
+      <find>testResult</find>
+      <find>filterResult</find>
+      <find>用例类型</find>
+      <find>generateResult</find>
+      <find />
+      <find>$$#</find>
+      <find>#</find>
+      <find>getInteger</find>
+      <find>201</find>
+      <find>登录失败</find>
+      <find>账号异常</find>
+      <find>110</find>
+      <find>NamedArg</find>
+      <find>selectarticle</find>
+      <find>updatearticle</find>
+      <find>updatearticlestatus</find>
+      <find>picname</find>
+      <find>selectrecord</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/RegularScript/TimeConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/RegularScript/task.xml" />
+        <option value="$PROJECT_DIR$/target/classes/websource.properties" />
+        <option value="$PROJECT_DIR$/Article/bsjnewsid.txt" />
+        <option value="$PROJECT_DIR$/Article/jscjnewsid.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/PriseAndLikeZone/commentdata.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/MyPair.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/websource.properties" />
+        <option value="$PROJECT_DIR$/Article/56cjnewsid.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/Mapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/testdatabase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SQLMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/crawlerrecords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/IsCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/DatabaseUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/Articles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HttpUtils/HttpClientInit.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/DownloadPic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/SendEmail.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/ToutiaoUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Util/toutiao.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/toutiao_ascp.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/toutiao.js" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/appversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaseApi/UpdateUserInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/ArticleMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaseApi/InitApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PriseAndLikeZone/LikeVideoOrArticle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchBiShiJie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchJinSeCaiJin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/Search56CJ.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTouzijie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTouzhongwang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchChinashugu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchIT199.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchHexunlicai.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchManqian.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/Crawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTianqjia.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchQiushibaike.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchMeizhuang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HttpUtils/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchDashujuzhongguo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/CrawlerRecords.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchToutiao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CrawlerArticle/PostArticle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MGE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MGE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MGE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MGE" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CrawlerArticle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MGETEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MGETEST" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="funnypic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/WorkSpace/InterfaceDBTest-Beta" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MGETEST\funnypic" />
+      <recent name="F:\MGETEST\src\main\java\Util" />
+      <recent name="F:\MGETEST\Article" />
+      <recent name="F:\MGETEST\src\main\resources" />
+      <recent name="F:\MGETEST\target" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Util" />
+      <recent name="TestReport" />
+      <recent name="Data" />
+      <recent name="InitBase" />
+      <recent name="Utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MGETEST\src\main\resources" />
+      <recent name="F:\MGETEST\.idea" />
+      <recent name="F:\MGETEST\target\classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PostArticle">
+    <configuration name="Crawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrawlerArticle.Crawler" />
+      <module name="MGE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrawlerArticle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PostArticle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrawlerArticle.PostArticle" />
+      <module name="MGE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrawlerArticle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SearchMeizhuang.analysisBSJHtml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MGE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrawlerArticle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="CrawlerArticle" />
+      <option name="MAIN_CLASS_NAME" value="CrawlerArticle.SearchMeizhuang" />
+      <option name="METHOD_NAME" value="analysisBSJHtml" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="SearchMeizhuang.searcbsMqttList" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MGE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrawlerArticle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="CrawlerArticle" />
+      <option name="MAIN_CLASS_NAME" value="CrawlerArticle.SearchMeizhuang" />
+      <option name="METHOD_NAME" value="searcbsMqttList" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="SearchQiushibaike.analysisTqjHtml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MGE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrawlerArticle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="CrawlerArticle" />
+      <option name="MAIN_CLASS_NAME" value="CrawlerArticle.SearchQiushibaike" />
+      <option name="METHOD_NAME" value="analysisTqjHtml" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PostArticle" />
+      <item itemvalue="TestNG.SearchQiushibaike.analysisTqjHtml" />
+      <item itemvalue="Application.Crawler" />
+      <item itemvalue="TestNG.SearchMeizhuang.searcbsMqttList" />
+      <item itemvalue="TestNG.SearchMeizhuang.analysisBSJHtml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PostArticle" />
+        <item itemvalue="Application.Crawler" />
+        <item itemvalue="TestNG.SearchMeizhuang.analysisBSJHtml" />
+        <item itemvalue="TestNG.SearchMeizhuang.searcbsMqttList" />
+        <item itemvalue="TestNG.SearchQiushibaike.analysisTqjHtml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2392bf0-6715-4430-a72f-787f32e8139f" name="Default" comment="" />
+      <created>1560305865710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560305865710</updated>
+      <workItem from="1560305872454" duration="32563000" />
+      <workItem from="1561427742405" duration="213000" />
+      <workItem from="1561427971583" duration="12316000" />
+      <workItem from="1561545566660" duration="1662000" />
+      <workItem from="1563854244219" duration="44000" />
+      <workItem from="1563856178416" duration="36000" />
+      <workItem from="1564390910624" duration="49000" />
+      <workItem from="1565681511276" duration="94000" />
+      <workItem from="1565681659496" duration="76000" />
+      <workItem from="1565682173305" duration="122000" />
+      <workItem from="1565682456080" duration="118000" />
+      <workItem from="1565682626000" duration="640000" />
+      <workItem from="1565683586488" duration="41674000" />
+      <workItem from="1565832545385" duration="3412000" />
+      <workItem from="1565920770535" duration="8075000" />
+      <workItem from="1565937206633" duration="130000" />
+      <workItem from="1565953361014" duration="410000" />
+      <workItem from="1566210690510" duration="1987000" />
+      <workItem from="1566264820612" duration="1430000" />
+      <workItem from="1566275152144" duration="1946000" />
+      <workItem from="1566361429282" duration="1369000" />
+      <workItem from="1566437562745" duration="1392000" />
+      <workItem from="1566469209885" duration="1416000" />
+      <workItem from="1566528570586" duration="893000" />
+      <workItem from="1567402957260" duration="19651000" />
+      <workItem from="1567474103793" duration="65336000" />
+      <workItem from="1567648216755" duration="22179000" />
+      <workItem from="1567674602359" duration="5976000" />
+      <workItem from="1567754173923" duration="10140000" />
+      <workItem from="1567993473383" duration="7748000" />
+      <workItem from="1568080650873" duration="16478000" />
+      <workItem from="1568109212193" duration="4962000" />
+      <workItem from="1568168713226" duration="25942000" />
+      <workItem from="1568251232894" duration="33014000" />
+      <workItem from="1568613399553" duration="2732000" />
+      <workItem from="1568699996684" duration="14259000" />
+      <workItem from="1568801911964" duration="971000" />
+      <workItem from="1568855598392" duration="20951000" />
+      <workItem from="1568942591939" duration="12044000" />
+      <workItem from="1569289150169" duration="5288000" />
+      <workItem from="1569485489182" duration="3686000" />
+      <workItem from="1569577747483" duration="646000" />
+      <workItem from="1570504519902" duration="8649000" />
+      <workItem from="1570584703453" duration="45666000" />
+      <workItem from="1570756855705" duration="2412000" />
+      <workItem from="1570765889501" duration="1691000" />
+      <workItem from="1570787902827" duration="1214000" />
+      <workItem from="1570875064332" duration="474000" />
+    </task>
+    <task id="LOCAL-00001" summary="删除javaxf类">
+      <created>1568173788525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568173788525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加动态标签">
+      <created>1568176086647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568176086647</updated>
+    </task>
+    <task id="LOCAL-00003" summary="文章存到数据库">
+      <created>1568286201920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568286201921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="文章存到数据库">
+      <created>1568286219363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568286219363</updated>
+    </task>
+    <task id="LOCAL-00005" summary="shanchu">
+      <created>1568286669378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568286669378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加文章标签">
+      <created>1568615101011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568615101011</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改取文章的sql">
+      <created>1568704482545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568704482545</updated>
+    </task>
+    <task id="LOCAL-00008" summary="新增it199网站">
+      <created>1568712156627</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568712156627</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改bug">
+      <created>1568714785434</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568714785434</updated>
+    </task>
+    <task id="LOCAL-00010" summary="新增和讯理财">
+      <created>1568716306420</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568716306420</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改热度值">
+      <created>1568802097978</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568802097978</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改gitignore">
+      <created>1568802451220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568802451220</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改图片地址问题">
+      <created>1568855810691</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568855810691</updated>
+    </task>
+    <task id="LOCAL-00014" summary="修改图片解析">
+      <created>1568857882781</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568857882781</updated>
+    </task>
+    <task id="LOCAL-00015" summary="优化校验逻辑">
+      <created>1568858439605</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568858439605</updated>
+    </task>
+    <task id="LOCAL-00016" summary="优化大数据中国网站爬取">
+      <created>1568861344811</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568861344811</updated>
+    </task>
+    <task id="LOCAL-00017" summary="更该文建下载目录，去除picture文件夹">
+      <created>1568861712210</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568861712210</updated>
+    </task>
+    <task id="LOCAL-00018" summary="更该文建下载目录，去除picture文件夹">
+      <created>1568861829002</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1568861829002</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1">
+      <created>1568862009382</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568862009382</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2">
+      <created>1568862926232</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1568862926232</updated>
+    </task>
+    <task id="LOCAL-00021" summary="增加邮件">
+      <created>1568877324261</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1568877324261</updated>
+    </task>
+    <task id="LOCAL-00022" summary="删除邮件">
+      <created>1568887555106</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1568887555106</updated>
+    </task>
+    <task id="LOCAL-00023" summary="心中旅游文章">
+      <created>1568975175083</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1568975175083</updated>
+    </task>
+    <task id="LOCAL-00024" summary="默认发布的文章设置为推荐">
+      <created>1569313347218</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569313347218</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1.添加今日头条 2.新增接口版本表">
+      <created>1570688287071</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1570688287072</updated>
+    </task>
+    <task id="LOCAL-00026" summary="更新标签">
+      <created>1570688423529</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1570688423529</updated>
+    </task>
+    <task id="LOCAL-00027" summary="新增搞笑和美妆标签">
+      <created>1570703451015</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1570703451015</updated>
+    </task>
+    <task id="LOCAL-00028" summary="标签转移至数据库保存">
+      <created>1570759155620</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1570759155620</updated>
+    </task>
+    <task id="LOCAL-00029" summary="增加是否爬取网站的字段">
+      <created>1570766248829</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1570766248829</updated>
+    </task>
+    <task id="LOCAL-00030" summary="优化文件读取">
+      <created>1570789099977</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1570789099977</updated>
+    </task>
+    <task id="LOCAL-00031" summary="优化文件读取">
+      <created>1570875439709</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1570875439709</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SearchMeizhuang_searcbsMqttList - 2019.10.10 at 17h 54m 00s.xml">
+      <configuration name="SearchMeizhuang.searcbsMqttList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_searcbsMqttList - 2019.10.10 at 17h 54m 05s.xml">
+      <configuration name="SearchMeizhuang.searcbsMqttList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_searcbsMqttList - 2019.10.10 at 17h 54m 39s.xml">
+      <configuration name="SearchMeizhuang.searcbsMqttList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_searcbsMqttList - 2019.10.10 at 17h 59m 15s.xml">
+      <configuration name="SearchMeizhuang.searcbsMqttList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_analysisBSJHtml - 2019.10.10 at 18h 09m 15s.xml">
+      <configuration name="SearchMeizhuang.analysisBSJHtml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_analysisBSJHtml - 2019.10.10 at 18h 09m 32s.xml">
+      <configuration name="SearchMeizhuang.analysisBSJHtml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_analysisBSJHtml - 2019.10.10 at 18h 14m 37s.xml">
+      <configuration name="SearchMeizhuang.analysisBSJHtml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_analysisBSJHtml - 2019.10.10 at 18h 18m 19s.xml">
+      <configuration name="SearchMeizhuang.analysisBSJHtml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_analysisBSJHtml - 2019.10.10 at 18h 18m 22s.xml">
+      <configuration name="SearchMeizhuang.analysisBSJHtml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchMeizhuang_analysisBSJHtml - 2019.10.10 at 18h 18m 55s.xml">
+      <configuration name="SearchMeizhuang.analysisBSJHtml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="445313000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21046892" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.35550708" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.39476553" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.11353944" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3805889" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.34460196" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.32279173" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3576881" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32824427" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="shanchu" />
+    <MESSAGE value="添加文章标签" />
+    <MESSAGE value="修改取文章的sql" />
+    <MESSAGE value="新增it199网站" />
+    <MESSAGE value="修改bug" />
+    <MESSAGE value="新增和讯理财" />
+    <MESSAGE value="修改热度值" />
+    <MESSAGE value="修改gitignore" />
+    <MESSAGE value="修改图片地址问题" />
+    <MESSAGE value="修改图片解析" />
+    <MESSAGE value="优化校验逻辑" />
+    <MESSAGE value="优化大数据中国网站爬取" />
+    <MESSAGE value="更该文建下载目录，去除picture文件夹" />
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="增加邮件" />
+    <MESSAGE value="删除邮件" />
+    <MESSAGE value="心中旅游文章" />
+    <MESSAGE value="默认发布的文章设置为推荐" />
+    <MESSAGE value="1.添加今日头条 2.新增接口版本表" />
+    <MESSAGE value="更新标签" />
+    <MESSAGE value="新增搞笑和美妆标签" />
+    <MESSAGE value="标签转移至数据库保存" />
+    <MESSAGE value="增加是否爬取网站的字段" />
+    <MESSAGE value="优化文件读取" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化文件读取" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchDashujuzhongguo.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchDashujuzhongguo.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="177" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>basehost+&quot;/v5.0/zone/rcmd&quot;+header</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PriseAndLikeZone/ThreadPoolTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2522">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/SendEmail.java" />
+    <entry file="file://$PROJECT_DIR$/Logs/20190919.log" />
+    <entry file="file://$PROJECT_DIR$/MGE.iml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/20190920.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/20190924.log" />
+    <entry file="file://$PROJECT_DIR$/Article/1569312860.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/toutiao_signature.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/ToutiaoUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HttpUtils/HttpClientInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="82" column="18" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="13077" column="4" selection-start-line="13077" selection-start-column="4" selection-end-line="13077" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/toutiao_signature.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/toutiao_ascp.js" />
+    <entry file="file://$PROJECT_DIR$/Logs/20191009.log" />
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/org/apache/http/HttpHeaders.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/20191010.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="2287" column="114" selection-start-line="2287" selection-start-column="107" selection-end-line="2287" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/Articles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/appversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseApi/UpdateUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="34" column="60" selection-start-line="34" selection-start-column="60" selection-end-line="34" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseApi/InitApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PriseAndLikeZone/LikeVideoOrArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="174" column="52" lean-forward="true" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchBiShiJie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchJinSeCaiJin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/Search56CJ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTouzijie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchChinashugu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchIT199.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchHexunlicai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchManqian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTianqjia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HttpUtils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchMeizhuang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchDashujuzhongguo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="92" column="61" lean-forward="true" selection-start-line="92" selection-start-column="61" selection-end-line="92" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/ArticleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="99" column="54" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#selectarrticle#0;class#ArticleMapper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/toutiao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SQLMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/Crawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/CrawlerRecords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/DownloadPic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PriseAndLikeZone/commentdata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchTouzhongwang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchToutiao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="52" column="88" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="88" />
+          <folding>
+            <element signature="method#unicodetoString#0;class#SearchToutiao#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/SearchQiushibaike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CrawlerArticle/PostArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="110" column="88" lean-forward="true" selection-start-line="110" selection-start-column="88" selection-end-line="110" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|MGE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
