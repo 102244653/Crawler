@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="ArticleMapper">
+
+    <resultMap type="CrawlerArticle.IsCheck" id="ischeck">
+        <result property="id" column="id" />
+        <result property="websource" column="websource"/>
+        <result property="newsid" column="newsid" />
+        <result property="updatetime" column="updatetime"/>
+        <result property="status" column="status"/>
+    </resultMap>
+
+    <resultMap type="CrawlerArticle.Articles" id="articles">
+        <result property="id" column="id" />
+        <result property="websource" column="websource"/>
+        <result property="newsid" column="newsid" />
+        <result property="arturl" column="arturl" />
+        <result property="arthot" column="arthot" />
+        <result property="tagname" column="tagname" />
+        <result property="title" column="title" />
+        <result property="olddetail" column="olddetail" />
+        <result property="newdetail" column="newdetail" />
+        <result property="creattime" column="creattime"/>
+        <result property="status" column="status"/>
+    </resultMap>
+
+    <resultMap type="CrawlerArticle.CrawlerRecords" id="crawlerrecords">
+        <result property="id" column="id" />
+        <result property="websource" column="websource"/>
+        <result property="tagid" column="tagid"/>
+        <result property="status" column="status"/>
+        <result property="updatetime" column="updatetime"/>
+    </resultMap>
+
+
+    <insert id="insertcheck" parameterType="CrawlerArticle.IsCheck" keyColumn="id" useGeneratedKeys="true" keyProperty="id">
+     INSERT INTO ischeck(`id`,`websource`, `newsid`, `updatetime`, `status`) VALUES (#{id},#{websource}, #{newsid},#{updatetime}, #{status});
+    </insert>
+
+    <select id="iscrawler" parameterType="CrawlerArticle.IsCheck" resultType="Integer">
+        select status from ischeck where websource=#{websource} and newsid=#{newsid};
+    </select>
+
+    <select id="selectcheck" parameterType="CrawlerArticle.IsCheck"  resultType="CrawlerArticle.IsCheck">
+    select * from ischeck  where websource=#{websource} and newsid=#{newsid};
+    </select>
+
+    <update id="updatecheck" parameterType="CrawlerArticle.IsCheck" >
+      UPDATE ischeck SET  `updatetime` = #{updatetime}, `status` = #{status} WHERE `websource` = #{websource} AND `newsid` = #{newsid} ;
+    </update>
+
+    <select id="selectarticle" parameterType="CrawlerArticle.Articles" resultMap="articles">
+        select * from articles where websource=#{websource} and newsid=#{newsid};
+    </select>
+
+    <select id="selectarticlebyid" parameterType="CrawlerArticle.Articles" resultType="CrawlerArticle.Articles">
+        select * from articles where id=#{id};
+    </select>
+
+    <select id="selectarticleby12" resultMap="articles" parameterType="CrawlerArticle.Articles">
+        select * from articles where status in (1,2) order by RAND() limit 10;
+    </select>
+
+    <select id="selectarticlebystatus" resultMap="articles" parameterType="CrawlerArticle.Articles">
+        select * from articles where status = #{status};
+    </select>
+
+    <insert id="insertarticle" parameterType="CrawlerArticle.Articles" keyColumn="id" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO articles(`id`, `websource`, `newsid`, `arturl`, `arthot`, `tagname`, `title`, `olddetail`,`newdetail`, `creattime`, `status`)
+         VALUES ( #{id}, #{websource}, #{newsid}, #{arturl}, #{arthot}, #{tagname}, #{title},#{olddetail},#{newdetail}, #{creattime}, #{status});
+    </insert>
+
+    <update id="updatearticle" parameterType="CrawlerArticle.Articles" >
+         UPDATE articles SET `newdetail` = #{newdetail}, `status` = #{status} WHERE `id` =  #{id};
+    </update>
+
+    <update id="updatearticlestatus" parameterType="CrawlerArticle.Articles" >
+         UPDATE articles SET `status` = #{status} WHERE `id` = #{id};
+    </update>
+
+    <update id="updaterecord" parameterType="CrawlerArticle.CrawlerRecords" >
+        UPDATE crawlerrecords SET  `updatetime` = #{updatetime} WHERE `websource` = #{websource};
+    </update>
+
+    <select id="selectrecord" parameterType="CrawlerArticle.CrawlerRecords" resultMap="crawlerrecords">
+        select * from  `crawlerrecords` WHERE `updatetime` != #{updatetime} and `status` = 0;
+    </select>
+
+    <update id="updateappversion" parameterType="CrawlerArticle.appversion" >
+        UPDATE appversion SET  `version` = #{version} WHERE `type` = #{type};
+    </update>
+
+    <select id="selectappversion" parameterType="CrawlerArticle.appversion" resultType="String">
+        select version from  `appversion` WHERE `type` = #{type};
+    </select>
+
+</mapper>
+
